@@ -1,1 +1,1 @@
-![Alt text](relative%20path/to/wos 5.png?raw=true "Title")
+![plot](./directory_1/wos 5.png)
