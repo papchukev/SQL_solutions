@@ -1,1 +1,1 @@
-![alt text](https://github.com/papchukev/SQL_solutions/Weather Observation Station 5/blob/main/wos 5.png?raw=true)
+![Alt text](relative%20path/to/wos 5.png?raw=true "Title")
